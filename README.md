@@ -1,7 +1,7 @@
 # RESTFul_Jersey_Jackson
 RESTFul JSON example with Jersey + Jackson
 STEP 1:
-git clone 
+git clone https://github.com/Sarvesh19/RESTFul_Jersey_Jackson.git 
 
 STEP 2:
 Add Repository to eclipse 
